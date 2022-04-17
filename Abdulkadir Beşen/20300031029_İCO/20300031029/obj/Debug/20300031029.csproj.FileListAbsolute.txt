@@ -1,0 +1,13 @@
+C:\Users\abdul\Desktop\Abdulkadir Beşen\20300031029_İCO\20300031029\bin\Debug\20300031029.exe.config
+C:\Users\abdul\Desktop\Abdulkadir Beşen\20300031029_İCO\20300031029\bin\Debug\20300031029.exe
+C:\Users\abdul\Desktop\Abdulkadir Beşen\20300031029_İCO\20300031029\bin\Debug\20300031029.pdb
+C:\Users\abdul\Desktop\Abdulkadir Beşen\20300031029_İCO\20300031029\obj\Debug\20300031029.csproj.AssemblyReference.cache
+C:\Users\abdul\Desktop\Abdulkadir Beşen\20300031029_İCO\20300031029\obj\Debug\20300031029.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdul\Desktop\Abdulkadir Beşen\20300031029_İCO\20300031029\obj\Debug\_20300031029.Form1.resources
+C:\Users\abdul\Desktop\Abdulkadir Beşen\20300031029_İCO\20300031029\obj\Debug\_20300031029.Properties.Resources.resources
+C:\Users\abdul\Desktop\Abdulkadir Beşen\20300031029_İCO\20300031029\obj\Debug\20300031029.csproj.GenerateResource.cache
+C:\Users\abdul\Desktop\Abdulkadir Beşen\20300031029_İCO\20300031029\obj\Debug\20300031029.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\Abdulkadir Beşen\20300031029_İCO\20300031029\obj\Debug\20300031029.exe
+C:\Users\abdul\Desktop\Abdulkadir Beşen\20300031029_İCO\20300031029\obj\Debug\20300031029.pdb
+C:\Users\abdul\Desktop\Abdulkadir Beşen\20300031029_İCO\20300031029\obj\Debug\_20300031029.FrmMasaKapat.resources
+C:\Users\abdul\Desktop\Abdulkadir Beşen\20300031029_İCO\20300031029\obj\Debug\_20300031029.FrmKullanici.resources
